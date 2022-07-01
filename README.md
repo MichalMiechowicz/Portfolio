@@ -12,6 +12,11 @@ Moje doświadczenie i umiejętnosći z obecnej pracy przenoszę do świata IT.
 * [POSTMAN](https://www.postman.com/)
 * SCRUM
 
+# Kursy
+* Podstawy Manualnego Testowania Oprogramowania - w trakcie
+* Praktyczny Kurs Testowania - w trakcie 
+
+
 # Umiejętności 
 * tworzenie przypadków testowych
 * raportowanie błędów 
