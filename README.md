@@ -2,6 +2,7 @@
 
 # O mnie
 Cześć, jestem Michał - a oto moje testerskie portfolio - abyś mógł/mogła poznać mnie bliżej. 
+
 Moje doświadczenie i umiejętnosći z obecnej pracy przenoszę do świata IT. 
 
 
@@ -24,7 +25,6 @@ Moje doświadczenie i umiejętnosći z obecnej pracy przenoszę do świata IT.
 * znajomość metodologi pracy w SCRUM
 * znajomość podstawowych poleceń SQL
 * DevTools - podstawowa znajomość
-* podstawowa znajomość GIT
 * znajomość podstawych poleceń REST API ( Postman) 
 * podstawowa znajomość protokołu HTTP
 * język angielski B2/C1
@@ -35,10 +35,12 @@ Moje doświadczenie i umiejętnosći z obecnej pracy przenoszę do świata IT.
 * determinacja;
 * szybkość w uczeniu się;
 * elastyczność;
+* techniczny zmysł
 
 # Blogi / kanały na YT
 * testerzy.pl
 * Cherry IT
 * remigiuszbednarczyk.pl
 
-# Moja Dokumentacja Testowania
+# Moja Dokumentacja Testowania - w trakcie tworzenia
+
