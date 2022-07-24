@@ -52,4 +52,4 @@ and the ability to transfer to the world of IT.
 
 # Moja Dokumentacja Testowania - w trakcie tworzenia /
  My Testing Documentation 
-* [Błędy / Bugs] (https://github.com/MichalMiechowicz/Portfolio/tree/main/B%C5%82%C4%99dy)
+* [ Błędy / Bugs ] (https://github.com/MichalMiechowicz/Portfolio/tree/main/B%C5%82%C4%99dy)
