@@ -23,7 +23,7 @@ and the ability to transfer to the world of IT.
 * Podstawy Manualnego Testowania Oprogramowania - w trakcie
 * Praktyczny Kurs Testowania - w trakcie 
 * MS SQL ( całościowy kurs ) - w kolejce 
-* POSTMAN ( całościowy kurs) W kolejce 
+* POSTMAN ( całościowy kurs) - kolejce 
 
 # UMIEJĘTNOŚCI / SKILLS
 * tworzenie przypadków testowych /creating test cases
