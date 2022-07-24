@@ -1,4 +1,4 @@
-# Portfolio / English 
+
 
 # O MNIE 
 Cześć, jestem Michał - zapraszam Cię do mojego portfolio. 
