@@ -50,6 +50,5 @@ and the ability to transfer to the world of IT.
 # Książki / Books
 * Tester Oprogramowania (Certyfikowany Specjalista IT) K. Zmitrowicz
 
-# Moja Dokumentacja Testowania - w trakcie tworzenia /
- My Testing Documentation 
+# Moja Dokumentacja Testowania - My Testing Documentation 
 * [Błędy/Bugs](https://github.com/MichalMiechowicz/Portfolio/tree/main/B%C5%82%C4%99dy)
