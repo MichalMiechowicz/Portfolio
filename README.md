@@ -1,29 +1,31 @@
 # Portfolio / English 
 
-# O mnie 
+# O MNIE 
 Cześć, jestem Michał - zapraszam Cię do mojego portfolio. 
 Jestem zdeterminowany i pełen chęci do tego, aby zdobyte doświadczenie
 i umiejętności przenieść do świata IT.
 
-# About me
+
+# ABOUT ME
 Hi, I'm Michael - I invite you to my portfolio. 
 I am determined and full of desire to gain experience
 and the ability to transfer to the world of IT. 
 
 
-# Technologie i Narzędzia / Technologies and tools
-* [JIRa](https://www.atlassian.com/pl/software/jira)
-* [SQL](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads)
-* [GIT](https://git-scm.com/)
-* [POSTMAN](https://www.postman.com/)
+# TECHNOLOGIE I NARZĘDZIA / TECHNOLOGIES AND TOOLS
+* [JIRA](https://www.atlassian.com/pl/software/jira)
+* [SQL](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads) - podstawy 
+* [GIT](https://git-scm.com/) - podstawy
+* [POSTMAN](https://www.postman.com/) - podstawy 
 * SCRUM
 
-# Kursy / Courses
+# KURSY / COURSES
 * Podstawy Manualnego Testowania Oprogramowania - w trakcie
 * Praktyczny Kurs Testowania - w trakcie 
+* MS SQL ( całościowy kurs ) - w kolejce 
+* POSTMAN ( całościowy kurs) W kolejce 
 
-
-# Umiejętności / skills
+# UMIEJĘTNOŚCI / SKILLS
 * tworzenie przypadków testowych /creating test cases
 * raportowanie błędów / bug reporting
 * testowanie oprogramowania / software testing
@@ -34,7 +36,7 @@ and the ability to transfer to the world of IT.
 * podstawowa znajomość protokołu HTTP / knowledge HTTP
 * język angielski B2/C1 / English languages B2/C1
 
-# Umiejętności nietechnologiczne / Non-technological skills
+# UMIEJĘTNOŚCI MIĘKKIE / NON-TECHNOLOGICALS SKILLS
 * dokładność i skrupulatność / precision
 * komunikatywność / communicativeness
 * determinacja / determination
@@ -42,13 +44,13 @@ and the ability to transfer to the world of IT.
 * elastyczność / flexibility
 * techniczny umsył / technical capabilities
 
-# Blogi / kanały na YT
+# BLOGI / KANAŁY
 * testerzy.pl
 * Cherry IT
 * remigiuszbednarczyk.pl
 
-# Książki / Books
+# KSIĄŻKI / BOOKS
 * Tester Oprogramowania (Certyfikowany Specjalista IT) K. Zmitrowicz
 
-# Moja Dokumentacja Testowania - My Testing Documentation 
+# DOKUMENTACJA TESTERSKA - TESTING DOCUMENTATION 
 * [Błędy/Bugs](https://github.com/MichalMiechowicz/Portfolio/tree/main/B%C5%82%C4%99dy)
