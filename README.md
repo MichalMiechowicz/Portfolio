@@ -47,5 +47,8 @@ and the ability to transfer to the world of IT.
 * Cherry IT
 * remigiuszbednarczyk.pl
 
+# Książki / Books
+* Tester Oprogramowania (Certyfikowany Specjalista IT) K. Zmitrowicz
+
 # Moja Dokumentacja Testowania - w trakcie tworzenia / My Testing Documentation - in progress
 
