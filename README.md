@@ -24,23 +24,23 @@ and skills to submit to the IT world.
 
 
 # Umiejętności / skills
-* tworzenie przypadków testowych
-* raportowanie błędów 
-* testowanie oprogramowania 
-* znajomość metodologi pracy w SCRUM
-* znajomość podstawowych poleceń SQL
-* DevTools - podstawowa znajomość
-* znajomość podstawych poleceń REST API ( Postman) 
-* podstawowa znajomość protokołu HTTP
-* język angielski B2/C1
+* tworzenie przypadków testowych /creating test cases
+* raportowanie błędów / bug reporting
+* testowanie oprogramowania / software testing
+* znajomość metodologi pracy w SCRUM / knowledge of scrum
+* znajomość podstawowych poleceń SQL / knowledge of MS SQL 
+* DevTools - podstawowa znajomość / knowledge of DevTools
+* znajomość podstawych poleceń REST API ( Postman)  / knowledge of REST API ( Postman)
+* podstawowa znajomość protokołu HTTP / knowledge HTTP
+* język angielski B2/C1 / English languages B2/C1
 
 # Umiejętności nietechnologiczne / Non-technological skills
-* dokładność i skrupulatność;
-* komunikatywność;
-* determinacja;
-* szybkość w uczeniu się;
-* elastyczność;
-* techniczny zmysł
+* dokładność i skrupulatność / precision
+* komunikatywność / communicativeness
+* determinacja / determination
+* szybkość w uczeniu się / speed in learning new things
+* elastyczność / flexibility
+* techniczny umsył / technical capabilities
 
 # Blogi / kanały na YT
 * testerzy.pl
