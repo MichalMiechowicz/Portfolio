@@ -3,7 +3,7 @@
 # O mnie 
 Cześć, jestem Michał - zapraszam Cię do mojego portfolio. 
 Jestem zdeterminowany i pełen chęci do tego, aby zdobyte doświadczenie
-i umiejętności przenieść do świata IT. 
+i umiejętności przenieść do świata IT.
 
 # About me
 Hi, I'm Michael - I invite you to my portfolio. 
