@@ -1,24 +1,29 @@
-# Portfolio
+# Portfolio / English 
 
-# O mnie
-Cześć, jestem Michał - a oto moje testerskie portfolio - abyś mógł/mogła poznać mnie bliżej. 
+# O mnie 
+Cześć, jestem Michał - zapraszam Cię do mojego portfolio. 
+Jestem zdeterminowany i pełen chęci do tego, aby swoje zdobyte doświadczenie
+i umiejętności przedłożyć do świata IT. 
 
-Moje doświadczenie i umiejętnosći z obecnej pracy przenoszę do świata IT. 
+# About me
+Hi, I'm Michael - I invite you to my portfolio. 
+I am determined and full of desire to make my experience
+and skills to submit to the IT world. 
 
 
-# Technologie i Narzędzia 
+# Technologie i Narzędzia / Technologies and tools
 * [JIRa](https://www.atlassian.com/pl/software/jira)
 * [SQL](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads)
 * [GIT](https://git-scm.com/)
 * [POSTMAN](https://www.postman.com/)
 * SCRUM
 
-# Kursy
+# Kursy / Courses
 * Podstawy Manualnego Testowania Oprogramowania - w trakcie
 * Praktyczny Kurs Testowania - w trakcie 
 
 
-# Umiejętności 
+# Umiejętności / skills
 * tworzenie przypadków testowych
 * raportowanie błędów 
 * testowanie oprogramowania 
@@ -29,7 +34,7 @@ Moje doświadczenie i umiejętnosći z obecnej pracy przenoszę do świata IT.
 * podstawowa znajomość protokołu HTTP
 * język angielski B2/C1
 
-# Umiejętności nietechnologiczne
+# Umiejętności nietechnologiczne / Non-technological skills
 * dokładność i skrupulatność;
 * komunikatywność;
 * determinacja;
@@ -42,5 +47,5 @@ Moje doświadczenie i umiejętnosći z obecnej pracy przenoszę do świata IT.
 * Cherry IT
 * remigiuszbednarczyk.pl
 
-# Moja Dokumentacja Testowania - w trakcie tworzenia
+# Moja Dokumentacja Testowania - w trakcie tworzenia / My Testing Documentation - in progress
 
