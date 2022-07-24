@@ -2,13 +2,13 @@
 
 # O mnie 
 Cześć, jestem Michał - zapraszam Cię do mojego portfolio. 
-Jestem zdeterminowany i pełen chęci do tego, aby swoje zdobyte doświadczenie
-i umiejętności przedłożyć do świata IT. 
+Jestem zdeterminowany i pełen chęci do tego, aby zdobyte doświadczenie
+i umiejętności przenieść do świata IT. 
 
 # About me
 Hi, I'm Michael - I invite you to my portfolio. 
-I am determined and full of desire to make my experience
-and skills to submit to the IT world. 
+I am determined and full of desire to gain experience
+and the ability to transfer to the world of IT. 
 
 
 # Technologie i Narzędzia / Technologies and tools
