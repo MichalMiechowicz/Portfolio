@@ -20,8 +20,7 @@ and the ability to transfer to the world of IT.
 * SCRUM
 
 # KURSY / COURSES
-* Podstawy Manualnego Testowania Oprogramowania - w trakcie
-* Praktyczny Kurs Testowania - w trakcie 
+* Podstawy Manualnego Testowania Oprogramowania 
 * MS SQL ( całościowy kurs ) - w kolejce 
 * POSTMAN ( całościowy kurs) - kolejce 
 
