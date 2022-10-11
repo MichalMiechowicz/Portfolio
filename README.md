@@ -29,15 +29,15 @@ and the ability to transfer to the world of IT.
 
 # TECHNOLOGIE I NARZĘDZIA / TECHNOLOGIES AND TOOLS
 * [JIRA](https://www.atlassian.com/pl/software/jira)
-* [SQL](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads) - podstawy 
-* [GIT](https://git-scm.com/) - podstawy
-* [POSTMAN](https://www.postman.com/) - podstawy 
+* [SQL](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads) 
+* [GIT](https://git-scm.com/) 
+* [POSTMAN](https://www.postman.com/) 
 * SCRUM
 
 # KURSY / COURSES
 * Podstawy Manualnego Testowania Oprogramowania 
-* MS SQL ( całościowy kurs ) - w kolejce 
-* POSTMAN ( całościowy kurs) - kolejce 
+* MS SQL ( całościowy kurs ) - w trakcie
+* POSTMAN ( całościowy kurs) - w trakcie
 
 # UMIEJĘTNOŚCI / SKILLS
 * tworzenie przypadków testowych /creating test cases
