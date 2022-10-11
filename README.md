@@ -69,4 +69,4 @@ and the ability to transfer to the world of IT.
 # DOKUMENTACJA TESTERSKA - TESTING DOCUMENTATION 
 * [Błędy/Bugs](https://github.com/MichalMiechowicz/Portfolio/tree/main/B%C5%82%C4%99dy)
 * [MS SQL](https://github.com/MichalMiechowicz/Portfolio/tree/main/MS%20SQL)
-* [Przypadki testowe/Test Case] (https://github.com/MichalMiechowicz/Portfolio/tree/main/Przypadki)
+* [Przypadki testowe/Test Case](https://github.com/MichalMiechowicz/Portfolio/tree/main/Przypadki)
