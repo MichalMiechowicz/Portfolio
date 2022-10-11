@@ -2,8 +2,23 @@
 
 # O MNIE 
 Cześć, jestem Michał - zapraszam Cię do mojego portfolio. 
-Jestem zdeterminowany i pełen chęci do tego, aby zdobyte doświadczenie
-i umiejętności przenieść do świata IT.
+Jestem początkującym testerem oprogramowania
+Aktualnie zajmuję się wykrywaniem błędów/usterek - ich
+weryfikacją oraz zgłaszaniem, a w końcowym etapie ich
+naprawą i retestowaniem.
+Wiem, że moje doświadczenie, umiejętności i predyspozycje pozwolą mi odnaleźć się na stanowisku testerskim.
+Posiadam niezbędną wiedzę teoretyczną z zakresu testowania
+oprogramowania (tworzenie przypadków testowych/zgłaszane
+defektów, rodzaje/typy/poziomy testowania, podstawy SQL,
+podstawy REST API, podstawy GIT - ogólna teoria, metodyka pracy
+w SCRUM).
+Zdobyłem pierwsze doświadczenie testerskie w trakcie trwania kursu
+wykonując zadania zawarte w kursie, a także testuję we własnym
+zakresie. Aktualnie poszerzam swoją wiedzą zdobytą podczas kursu
+w zakresie - MS SQL i REST API - Postman. W przyszłości, chciałbym
+rozwijać się w kierunku automatyzacji.
+Znam najważniejsze zagadnienia związane z pracą
+w metodologii SCRUM.
 
 
 # ABOUT ME
