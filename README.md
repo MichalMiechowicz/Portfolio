@@ -51,7 +51,7 @@ and the ability to transfer to the world of IT.
 * język angielski B2/C1 / English language B2/C1
 
 # UMIEJĘTNOŚCI MIĘKKIE / NON-TECHNOLOGICALS SKILLS
-* dokładność i skrupulatność / precision
+* dokładność i systematyczność / precision and regularity
 * komunikatywność / communicativeness
 * determinacja / determination
 * szybkość w uczeniu się / fast learner
