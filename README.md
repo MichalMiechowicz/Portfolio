@@ -2,7 +2,7 @@
 
 # O MNIE 
 Cześć, jestem Michał - zapraszam Cię do mojego portfolio. 
-Jestem początkującym testerem oprogramowania
+Jestem początkującym testerem oprogramowania.
 Aktualnie zajmuję się wykrywaniem błędów/usterek - ich
 weryfikacją oraz zgłaszaniem, a w końcowym etapie ich
 naprawą i retestowaniem.
@@ -15,8 +15,8 @@ w SCRUM).
 Zdobyłem pierwsze doświadczenie testerskie w trakcie trwania kursu
 wykonując zadania zawarte w kursie, a także testuję we własnym
 zakresie. Aktualnie poszerzam swoją wiedzą zdobytą podczas kursu
-w zakresie - MS SQL i REST API - Postman. W przyszłości, chciałbym
-rozwijać się w kierunku automatyzacji.
+w zakresie - MS SQL i REST API - Postman. W przyszłości chciałbym
+rozwijać się w kierunku automatyzacji, ale nie zamykam się na inne możliwości.
 Znam najważniejsze zagadnienia związane z pracą
 w metodologii SCRUM.
 
