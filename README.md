@@ -40,7 +40,7 @@ and the ability to transfer to the world of IT.
 * POSTMAN ( całościowy kurs) - w trakcie
 
 # UMIEJĘTNOŚCI / SKILLS
-* tworzenie przypadków testowych /creating test cases
+* tworzenie przypadków testowych / creating test cases
 * raportowanie błędów / bug reporting
 * testowanie oprogramowania / software testing
 * znajomość metodologi pracy w SCRUM / knowledge of scrum
@@ -48,15 +48,15 @@ and the ability to transfer to the world of IT.
 * DevTools - podstawowa znajomość / knowledge of DevTools
 * znajomość podstawych poleceń REST API ( Postman)  / knowledge of REST API ( Postman)
 * podstawowa znajomość protokołu HTTP / knowledge HTTP
-* język angielski B2/C1 / English languages B2/C1
+* język angielski B2/C1 / English language B2/C1
 
 # UMIEJĘTNOŚCI MIĘKKIE / NON-TECHNOLOGICALS SKILLS
 * dokładność i skrupulatność / precision
 * komunikatywność / communicativeness
 * determinacja / determination
-* szybkość w uczeniu się / speed in learning new things
+* szybkość w uczeniu się / fast learner
 * elastyczność / flexibility
-* techniczny umsył / technical capabilities
+* techniczny umsył / technical mind
 
 # BLOGI / KANAŁY
 * testerzy.pl
