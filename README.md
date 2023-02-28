@@ -47,7 +47,7 @@ and the ability to transfer to the world of IT.
 * znajomość podstawowych poleceń SQL / knowledge of MS SQL 
 * DevTools - podstawowa znajomość / knowledge of DevTools
 * znajomość podstawych poleceń REST API (Postman)  / knowledge of REST API (Postman)
-* podstawowa znajomość protokołu HTTP / knowledge HTTP
+* podstawowa znajomość protokołu HTTP / knowledge of HTTP
 * język angielski B2/C1 / English language B2/C1
 
 # UMIEJĘTNOŚCI MIĘKKIE / NON-TECHNOLOGICALS SKILLS
