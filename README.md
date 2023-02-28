@@ -36,8 +36,8 @@ and the ability to transfer to the world of IT.
 
 # KURSY / COURSES
 * Podstawy Manualnego Testowania Oprogramowania 
-* MS SQL ( całościowy kurs ) - w trakcie
-* POSTMAN ( całościowy kurs) - w trakcie
+* MS SQL (całościowy kurs) - w trakcie
+* POSTMAN (całościowy kurs) - w trakcie
 
 # UMIEJĘTNOŚCI / SKILLS
 * tworzenie przypadków testowych / creating test cases
