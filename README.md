@@ -8,7 +8,7 @@ weryfikację, zgłaszanie, naprawę i ponowne sprawdzenie, czy wszystko działa 
 Wiem, że moje doświadczenie, umiejętności i predyspozycje pozwolą mi odnaleźć się na stanowisku testerskim.
 Posiadam niezbędną wiedzę teoretyczną z zakresu testowania
 oprogramowania (tworzenie przypadków testowych/zgłaszane
-defektów, rodzaje/typy/poziomy testowania, podstawy SQL,
+defektów, rodzaje/typy/poziomy testowania, podstawy SQL, Jira,
 podstawy REST API, podstawy GIT - ogólna teoria, metodyka pracy
 w SCRUM).
 Zdobyłem pierwsze doświadczenie testerskie w trakcie trwania kursu,
@@ -28,7 +28,7 @@ Currently I'm responsible for finding various faults at work -
 verification, reporting, fixing them and checking again if it works as it should.
 I know that my experience, skills and predispositions will help me find a place in software testing.
 I have the necessary theoretical knowledge of software testing (writing test cases/reporting bugs/
-types of testing/SQL basics/REST API basics/GIT basics/SCRUM mothodology).
+types of testing/SQL basics/Jira/REST API basics/GIT basics/SCRUM mothodology).
 I've gained my first testing experience through completing tasks included in a online course and
 testing/finding bugs on my own account.
 Right now I'm widening the knowledge I've gained through the course in the field of MS SQL and REST API.
