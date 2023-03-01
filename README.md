@@ -3,28 +3,39 @@
 # O MNIE 
 Cześć, jestem Michał - zapraszam Cię do mojego portfolio. 
 Jestem początkującym testerem oprogramowania.
-Aktualnie zajmuję się wykrywaniem błędów/usterek - ich
-weryfikacją oraz zgłaszaniem, a w końcowym etapie ich
-naprawą i retestowaniem.
+Aktualnie jestem odpowiedzialny za wykrywanie błędów/usterek - ich
+weryfikację, zgłaszanie, naprawę i ponowne sprawdzenie, czy wszystko działa jak należy.
 Wiem, że moje doświadczenie, umiejętności i predyspozycje pozwolą mi odnaleźć się na stanowisku testerskim.
 Posiadam niezbędną wiedzę teoretyczną z zakresu testowania
 oprogramowania (tworzenie przypadków testowych/zgłaszane
 defektów, rodzaje/typy/poziomy testowania, podstawy SQL,
 podstawy REST API, podstawy GIT - ogólna teoria, metodyka pracy
 w SCRUM).
-Zdobyłem pierwsze doświadczenie testerskie w trakcie trwania kursu
+Zdobyłem pierwsze doświadczenie testerskie w trakcie trwania kursu,
 wykonując zadania zawarte w kursie, a także testuję we własnym
 zakresie. Aktualnie poszerzam swoją wiedzą zdobytą podczas kursu
-w zakresie - MS SQL i REST API - Postman. W przyszłości chciałbym
+w zakresie MS SQL i REST API - Postman. W przyszłości chciałbym
 rozwijać się w kierunku automatyzacji, ale nie zamykam się na inne możliwości.
-Znam najważniejsze zagadnienia związane z pracą
-w metodologii SCRUM.
+
+Jestem doświadczonym pracownikiem. Wiem, że praca jest ważna i trzeba należycie wywiązywać się ze swoich obowiązków. 
+Chcę się rowzijać - potrzebuję tylko szansy - uważam, że jestem tego warty.
 
 
 # ABOUT ME
 Hi, I'm Michael - I invite you to my portfolio. 
-I am determined and full of desire to gain experience
-and the ability to transfer to the world of IT. 
+I'm a beginner software tester. 
+Currently I'm responsible for finding various faults at work - 
+verification, reporting, fixing them and checking again if it works as it should.
+I know that my experience, skills and predispositions will help me find a place in software testing.
+I have the necessary theoretical knowledge of software testing (writing test cases/reporting bugs/
+types of testing/SQL basics/REST API basics/GIT basics/SCRUM mothodology).
+I've gained my first testing experience through completing tasks included in a online course and
+testing/finding bugs on my own account.
+Right now I'm widening the knowledge I've gained through the course in the field of MS SQL and REST API.
+In the future I'm willing to develop myself towards test automation, but I'm not excluding other possible paths.
+
+I'm an experienced employee. I know that work is important and one must properly fulfill his duties.
+I want to grow and just need a chance - I'm convinced I'm worth it.
 
 
 # TECHNOLOGIE I NARZĘDZIA / TECHNOLOGIES AND TOOLS
