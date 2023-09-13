@@ -2,22 +2,22 @@
 
 # O MNIE 
 Cześć, jestem Michał - zapraszam Cię do mojego portfolio. 
-Jestem aspirującym testerem oprogramowania, to już wiesz z mojego CV. 
 
-Zdobyłem pierwsze doświadczenie testerskie w trakcie trwania kursu,
-wykonując zadania zawarte w kursie, a także testuję we własnym
-zakresie. 
+Znajdziesz w nim:
+* przypadki testowe - dla siebie, rozpisuję je w Excelu - (wiem, że w firmach korzysta się np. z dodatku do Jiry - jak  Xray czy Zephy  - chętnie się nauczę :) ).
+* znalezione bugi - zgłaszam je w Jira.
+* zadania z kursu - związane z SQL
 
-Jestem doświadczonym pracownikiem. Wiem, że praca jest ważna i trzeba należycie wywiązywać się ze swoich obowiązków. 
-Chcę się rowzijać - potrzebuję tylko szansy - uważam, że jestem tego warty.
+Od zawsze interesował mnie świat IT, szczególnie skupiony na błędach ( mam oko do detali i łatwo wyłapuję błędy - różnego typu) oraz tym, jak dana aplikacja powinna działać.
+Internet/aplikacje nie stanowią dla mnie tajemnic - potrafię wyszukiwać potrzebne informacje ( w języku angielskim również).
 
-Teraz zapraszam Cię do zapoznania się z moją dokumentacją.
+Moje doświadczenie jestem w stanie przełożyć do roli testera w IT - tutaj też będę analizował dokumentację techniczną, sprawdzał - "jak działa/czy działa" etc. , zgłaszał błędy czy nieprawidłowości, 
+a takżę współpracował z zespołem. 
+
+Nie przedłużając,  zapraszam Cię do zapoznania się z moją dokumentacją.
 
 # ABOUT ME
 Hi, I'm Michael - I invite you to my portfolio. 
-
-I'm an experienced employee. I know that work is important and one must properly fulfill his duties.
-I want to grow and just need a chance - I'm convinced I'm worth it.
 
 
 # TECHNOLOGIE I NARZĘDZIA / TECHNOLOGIES AND TOOLS
