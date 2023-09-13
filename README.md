@@ -30,7 +30,7 @@ Hi, I'm Michael - I invite you to my portfolio.
 # KURSY / COURSES
 * Podstawy Manualnego Testowania Oprogramowania 
 * MS SQL 
-* POSTMAN (całościowy kurs) - w trakcie
+* REST API - Postman - w trakcie
 
 # UMIEJĘTNOŚCI / SKILLS
 * tworzenie przypadków testowych / creating test cases
